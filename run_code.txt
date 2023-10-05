@@ -1,0 +1,4 @@
+chmod +x /opt/airflow/start-services.sh
+chmod +x /opt/airflow/start.sh
+chmod +x /home/workspace/startup.sh
+chmod +x /home/workspace/kill_program_processes.sh
