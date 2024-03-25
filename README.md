@@ -8,7 +8,7 @@ A music streaming company would like to implement additional automation and moni
 * incorporates/executes quality test tasks after ETL steps are complete.
 
 ## Tools / Technologies
-* Python, Apache Airflow, AWS S3, AWS RedShift, SQL, Unix Shell
+* Python, Apache Airflow, AWS IAM, S3, RedShift, SQL, Shell (Bash)
 
 ## Pipeline DAG Overview (Airflow UI)
 ![DAG](./airflow_dag.png)
